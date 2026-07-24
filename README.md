@@ -16,7 +16,7 @@ This project demonstrates how to deploy an Nginx web server inside a Docker cont
 
 ## Project Architecture
 
-Internet
+   Internet
       │
       ▼
 Google Cloud VM
