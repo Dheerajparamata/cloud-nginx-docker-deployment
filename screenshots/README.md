@@ -1,8 +1,8 @@
-Screenshots for Project 1
-screenshots/
-├── vm-instance.png
-├── docker-install.png
-├── docker-version.png
-├── docker-ps.png
-├── nginx-browser.png
-└── curl-localhost.png
+## Screenshots
+
+- GCP VM Instance
+- Docker Installation
+- Docker Version
+- Docker Container Running
+- Browser Output
+- curl localhost Output
