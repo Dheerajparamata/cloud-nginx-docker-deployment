@@ -1,4 +1,6 @@
-# Deploy an Nginx Website Using Docker on Google Cloud Platform
+# Cloud Nginx Docker Deployment
+
+Deploying an Nginx web server inside a Docker container on a Google Cloud Platform (GCP) Virtual Machine.
 
 ## Project Overview
 
@@ -16,16 +18,18 @@ This project demonstrates how to deploy an Nginx web server inside a Docker cont
 
 ## Project Architecture
 
-   Internet
-      │
-      ▼
+```text
+Internet
+   │
+   ▼
 Google Cloud VM
-      │
-      ▼
+   │
+   ▼
 Docker Container
-      │
-      ▼
+   │
+   ▼
 Nginx Web Server
+```
 
 ## Commands Used
 
@@ -56,12 +60,23 @@ curl http://localhost
 
 ## Screenshots
 
-- GCP VM Instance
-- Docker Installation
-- Docker Version
-- Docker Container Running
-- Browser Output
-- curl localhost Output
+### 1. GCP VM Instance
+![GCP VM Instance](screenshots/1.%20vm-instance.png)
+
+### 2. Docker Installation
+![Docker Installation](screenshots/2.%20docker-install%20pg1.png)
+
+### 3. Docker Version
+![Docker Version](screenshots/3.%20docker-version.png)
+
+### 4. Docker Container Running
+![Docker Container Running](screenshots/4.%20docker-ps.png)
+
+### 5. Browser Output
+![Browser Output](screenshots/5.%20nginx-browser.png)
+
+### 6. curl localhost Output
+![curl localhost Output](screenshots/6.%20curl-localhost.png)
 
 ## Author
 
