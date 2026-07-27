@@ -58,25 +58,6 @@ curl http://localhost
 - Accessed the website using the VM's public IP.
 - Confirmed deployment through a web browser.
 
-## Screenshots
-
-### 1. GCP VM Instance
-![GCP VM Instance](screenshots/1.%20vm-instance.png)
-
-### 2. Docker Installation
-![Docker Installation](screenshots/2.%20docker-install%20pg1.png)
-
-### 3. Docker Version
-![Docker Version](screenshots/3.%20docker-version.png)
-
-### 4. Docker Container Running
-![Docker Container Running](screenshots/4.%20docker-ps.png)
-
-### 5. Browser Output
-![Browser Output](screenshots/5.%20nginx-browser.png)
-
-### 6. curl localhost Output
-![curl localhost Output](screenshots/6.%20curl-localhost.png)
 
 ## Author
 
